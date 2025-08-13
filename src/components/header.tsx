@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { Search, Menu as MenuIcon } from "lucide-react";
-import LogoMark from "./LogoMark";
+import { Menu as MenuIcon } from "lucide-react";
+import LogoMark from "./logoMark";
 
 const NAV_LEFT = [
   { href: "#inicio", label: "Inicio" },

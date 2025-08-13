@@ -1,5 +1,5 @@
 import { PROJECTS } from "../data/projects";
-import SectionTitle from "./SectionTitle";
+import SectionTitle from "./sectionTitle";
 
 export default function Portfolio() {
   return (

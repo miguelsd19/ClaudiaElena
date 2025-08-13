@@ -1,10 +1,10 @@
 import { useEffect } from "react";
-import Header from "./components/Header";
-import Hero from "./components/Hero";
-import Services from "./components/Services";
-import Portfolio from "./components/Portfolio";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Header from "./components/header";
+import Hero from "./components/hero";
+import Services from "./components/services";
+import Portfolio from "./components/portfolio";
+import Contact from "./components/contact";
+import Footer from "./components/footer";
 import { BRAND } from "./data/brand";
 
 export default function App() {

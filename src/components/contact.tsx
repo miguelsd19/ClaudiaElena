@@ -1,6 +1,6 @@
 import { Phone, Mail, Instagram, Linkedin, MessageCircle } from "lucide-react";
 import { BRAND } from "../data/brand";
-import SectionTitle from "./SectionTitle";
+import SectionTitle from "./sectionTitle";
 
 export default function Contact() {
   return (

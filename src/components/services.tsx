@@ -1,5 +1,5 @@
 import { SERVICES } from "../data/services";
-import SectionTitle from "./SectionTitle";
+import SectionTitle from "./sectionTitle";
 
 export default function Services() {
   return (
