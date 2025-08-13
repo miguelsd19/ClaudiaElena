@@ -45,6 +45,7 @@ export default function Hero() {
     const dx = t.clientX - start.x;
     const dy = t.clientY - start.y;
     if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > SWIPE_PX) {
+      // eslint-disable-next-line @typescript-eslint/no-unused-expressions
       dx < 0 ? next() : prev();
     }
     touchStart.current = null;
